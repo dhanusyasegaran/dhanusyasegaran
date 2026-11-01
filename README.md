@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=dhanusyasegaran&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F241815060%3Fu%3D49626675b096c12e2aac76e6103c46aa7ce3f5cf%26v%3D4" alt="dhanusyasegaran hero visual" />
 </p>
 
-<p align="center"><b>Dhanusya Segaran</b> · Frontend or full-stack engineer<br/><sub>&quot;Coding is like a game.  The more you play, the better you get.&quot;</sub></p>
+<p align="center"><b>Dhanusya Segaran</b> ·  Final year Student <br/><sub>&quot;Coding is like a game.  The more you play, the better you get.&quot;</sub></p>
 
 <p align="center"><a href="https://github.com/dhanusyasegaran">GitHub</a> · <a href="https://dhanusyasegaran.github.io/potfolio/">Website</a></p>
 
